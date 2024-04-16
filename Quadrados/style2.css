@@ -1,0 +1,26 @@
+div {
+    display: inline-block;
+     border: 1px solid black;
+     width: 200px;
+     height: 300px;
+     text-align: center;
+}
+
+body{
+    background-color: grey;
+    display: flex;
+}
+a:link {
+    color: red;
+}
+.azul{
+    background-color: aqua;
+}
+.coral{
+    background-color: coral;
+    color: aquamarine;
+}
+.verde{
+    background-color: rgb(127, 235, 127);
+    text-decoration:underline;
+}

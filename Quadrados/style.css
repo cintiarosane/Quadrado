@@ -1,0 +1,22 @@
+div {
+     display: inline-block;
+     border: 1px solid black;
+     width: 200px;
+     height: 200px;
+    }
+
+    .vermelho{
+        background-color: red;
+    }
+    .azul{
+        background-color: rgb(45, 45, 245);
+    }
+    .verde{
+        background-color: green;
+    }
+    .amarelo{
+        background-color: yellow;
+    }
+    .branca{
+        border: 1px solid white;
+    }
